@@ -1,0 +1,11 @@
+admin login:
+email: admin@gmail.com
+password: 12345678
+
+user login:
+email: dsvasoya2002@gmail.com	
+password: 12345678
+
+staff login:
+email: darshanvasoya20@gnu.ac.in
+password: 12345678
